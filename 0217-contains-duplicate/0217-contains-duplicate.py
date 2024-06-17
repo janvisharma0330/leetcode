@@ -1,4 +1,12 @@
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
-        return len(nums)!=len(set(nums))
+        lookup={}
+        for num in nums:
+            if num in lookup:
+                return True
+            else:
+                lookup[num]=1
+        return False
+
+
         

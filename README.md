@@ -27,3 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/janvisharma0330/leetcode/tree/master/0189-rotate-array) |
+# String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/janvisharma0330/leetcode/tree/master/0058-length-of-last-word) |

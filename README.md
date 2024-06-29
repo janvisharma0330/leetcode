@@ -54,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/janvisharma0330/leetcode/tree/master/0206-reverse-linked-list) |
+## Array
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/janvisharma0330/leetcode/tree/master/2058-concatenation-of-array) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/janvisharma0330/leetcode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->

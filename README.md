@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/janvisharma0330/leetcode/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/janvisharma0330/leetcode/tree/master/0198-house-robber) |
 | [0861-flipping-an-image](https://github.com/janvisharma0330/leetcode/tree/master/0861-flipping-an-image) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/janvisharma0330/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/janvisharma0330/leetcode/tree/master/0078-subsets) |
 | [0861-flipping-an-image](https://github.com/janvisharma0330/leetcode/tree/master/0861-flipping-an-image) |
 ## Matrix
 |  |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/janvisharma0330/leetcode/tree/master/0198-house-robber) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/janvisharma0330/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

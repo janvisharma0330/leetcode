@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/janvisharma0330/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/janvisharma0330/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/janvisharma0330/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Two Pointers
@@ -132,5 +133,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/janvisharma0330/leetcode/tree/master/0682-baseball-game) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/janvisharma0330/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/janvisharma0330/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->

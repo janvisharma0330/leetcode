@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/janvisharma0330/leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1642-water-bottles](https://github.com/janvisharma0330/leetcode/tree/master/1642-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/janvisharma0330/leetcode/tree/master/2058-concatenation-of-array) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/janvisharma0330/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/janvisharma0330/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/janvisharma0330/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/janvisharma0330/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/janvisharma0330/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -135,4 +137,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/janvisharma0330/leetcode/tree/master/0682-baseball-game) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/janvisharma0330/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/janvisharma0330/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/janvisharma0330/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->

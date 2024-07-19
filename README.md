@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/janvisharma0330/leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/janvisharma0330/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/janvisharma0330/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/janvisharma0330/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1833-find-the-highest-altitude](https://github.com/janvisharma0330/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2058-concatenation-of-array](https://github.com/janvisharma0330/leetcode/tree/master/2058-concatenation-of-array) |
 ## Simulation
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/janvisharma0330/leetcode/tree/master/0874-backspace-string-compare) |
 | [1505-create-target-array-in-the-given-order](https://github.com/janvisharma0330/leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1642-water-bottles](https://github.com/janvisharma0330/leetcode/tree/master/1642-water-bottles) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/janvisharma0330/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/janvisharma0330/leetcode/tree/master/2058-concatenation-of-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/janvisharma0330/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Prefix Sum
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/janvisharma0330/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/janvisharma0330/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1666-make-the-string-great](https://github.com/janvisharma0330/leetcode/tree/master/1666-make-the-string-great) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/janvisharma0330/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/janvisharma0330/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/janvisharma0330/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Greedy
@@ -169,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/janvisharma0330/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/janvisharma0330/leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+## Queue
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/janvisharma0330/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->

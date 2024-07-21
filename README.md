@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/janvisharma0330/leetcode/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/janvisharma0330/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0316-remove-duplicate-letters](https://github.com/janvisharma0330/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/janvisharma0330/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/janvisharma0330/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -186,5 +187,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/janvisharma0330/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/janvisharma0330/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/janvisharma0330/leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->

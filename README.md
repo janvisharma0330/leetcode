@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/janvisharma0330/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1833-find-the-highest-altitude](https://github.com/janvisharma0330/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2058-concatenation-of-array](https://github.com/janvisharma0330/leetcode/tree/master/2058-concatenation-of-array) |
+| [2502-sort-the-people](https://github.com/janvisharma0330/leetcode/tree/master/2502-sort-the-people) |
 ## Simulation
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/janvisharma0330/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/janvisharma0330/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/janvisharma0330/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2502-sort-the-people](https://github.com/janvisharma0330/leetcode/tree/master/2502-sort-the-people) |
 ## Math
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/janvisharma0330/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2502-sort-the-people](https://github.com/janvisharma0330/leetcode/tree/master/2502-sort-the-people) |
 ## String
 |  |
 | ------- |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1666-make-the-string-great](https://github.com/janvisharma0330/leetcode/tree/master/1666-make-the-string-great) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/janvisharma0330/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/janvisharma0330/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2502-sort-the-people](https://github.com/janvisharma0330/leetcode/tree/master/2502-sort-the-people) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/janvisharma0330/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Two Pointers
 |  |

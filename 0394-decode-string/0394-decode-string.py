@@ -1,18 +1,22 @@
-class Solution(object):
-    def decodeString(self, s):
-        stack = []; curNum = 0; curString = ''
-        for c in s:
-            if c == '[':
-                stack.append(curString)
-                stack.append(curNum)
-                curString = ''
-                curNum = 0
-            elif c == ']':
-                num = stack.pop()
-                prevString = stack.pop()
-                curString = prevString + num*curString
-            elif c.isdigit():
-                curNum = curNum*10 + int(c)
+class Solution:
+    def decodeString(self, s: str) -> str:
+        stack=[]
+        for i in range(len(s)):
+            if s[i]!="]":
+                stack.append(s[i])
             else:
-                curString += c
-        return curString
+                part=""
+                while stack and stack[-1]!="[":
+                    part=stack.pop() + part
+                if stack :
+                    stack.pop()
+                k=""
+                while stack and stack[-1].isdigit():
+                    k=stack.pop()+k
+                if k == "":
+                    k = "1"
+                stack.append(int(k) * part)
+               
+        return "".join(stack)
+
+        

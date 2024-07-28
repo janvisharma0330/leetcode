@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/janvisharma0330/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0874-backspace-string-compare](https://github.com/janvisharma0330/leetcode/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/janvisharma0330/leetcode/tree/master/0886-score-of-parentheses) |
+| [0916-decoded-string-at-index](https://github.com/janvisharma0330/leetcode/tree/master/0916-decoded-string-at-index) |
 | [1078-remove-outermost-parentheses](https://github.com/janvisharma0330/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/janvisharma0330/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/janvisharma0330/leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/janvisharma0330/leetcode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/janvisharma0330/leetcode/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/janvisharma0330/leetcode/tree/master/0886-score-of-parentheses) |
+| [0916-decoded-string-at-index](https://github.com/janvisharma0330/leetcode/tree/master/0916-decoded-string-at-index) |
 | [0983-validate-stack-sequences](https://github.com/janvisharma0330/leetcode/tree/master/0983-validate-stack-sequences) |
 | [1078-remove-outermost-parentheses](https://github.com/janvisharma0330/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/janvisharma0330/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |

@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/janvisharma0330/leetcode/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/janvisharma0330/leetcode/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/janvisharma0330/leetcode/tree/master/0861-flipping-an-image) |
+| [0883-car-fleet](https://github.com/janvisharma0330/leetcode/tree/master/0883-car-fleet) |
 | [0948-sort-an-array](https://github.com/janvisharma0330/leetcode/tree/master/0948-sort-an-array) |
 | [0983-validate-stack-sequences](https://github.com/janvisharma0330/leetcode/tree/master/0983-validate-stack-sequences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/janvisharma0330/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0883-car-fleet](https://github.com/janvisharma0330/leetcode/tree/master/0883-car-fleet) |
 | [0948-sort-an-array](https://github.com/janvisharma0330/leetcode/tree/master/0948-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/janvisharma0330/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/janvisharma0330/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/janvisharma0330/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/janvisharma0330/leetcode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/janvisharma0330/leetcode/tree/master/0874-backspace-string-compare) |
+| [0883-car-fleet](https://github.com/janvisharma0330/leetcode/tree/master/0883-car-fleet) |
 | [0886-score-of-parentheses](https://github.com/janvisharma0330/leetcode/tree/master/0886-score-of-parentheses) |
 | [0916-decoded-string-at-index](https://github.com/janvisharma0330/leetcode/tree/master/0916-decoded-string-at-index) |
 | [0983-validate-stack-sequences](https://github.com/janvisharma0330/leetcode/tree/master/0983-validate-stack-sequences) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/janvisharma0330/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/janvisharma0330/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/janvisharma0330/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0883-car-fleet](https://github.com/janvisharma0330/leetcode/tree/master/0883-car-fleet) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/janvisharma0330/leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Queue
 |  |

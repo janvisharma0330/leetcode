@@ -13,8 +13,8 @@ class Solution(object):
         tail = p.next
 
         for i in range(n-m):
-            tmp = p.next                  # a)
-            p.next = tail.next            # b)
-            tail.next = tail.next.next    # c)
-            p.next.next = tmp             # d)
+            tmp = p.next                  
+            p.next = tail.next            
+            tail.next = tail.next.next    
+            p.next.next = tmp             
         return dummy.next

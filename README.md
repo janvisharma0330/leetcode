@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/janvisharma0330/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/janvisharma0330/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/janvisharma0330/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1072-next-greater-node-in-linked-list](https://github.com/janvisharma0330/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/janvisharma0330/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/janvisharma0330/leetcode/tree/master/0883-car-fleet) |
 | [0948-sort-an-array](https://github.com/janvisharma0330/leetcode/tree/master/0948-sort-an-array) |
 | [0983-validate-stack-sequences](https://github.com/janvisharma0330/leetcode/tree/master/0983-validate-stack-sequences) |
+| [1072-next-greater-node-in-linked-list](https://github.com/janvisharma0330/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/janvisharma0330/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/janvisharma0330/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/janvisharma0330/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-score-of-parentheses](https://github.com/janvisharma0330/leetcode/tree/master/0886-score-of-parentheses) |
 | [0916-decoded-string-at-index](https://github.com/janvisharma0330/leetcode/tree/master/0916-decoded-string-at-index) |
 | [0983-validate-stack-sequences](https://github.com/janvisharma0330/leetcode/tree/master/0983-validate-stack-sequences) |
+| [1072-next-greater-node-in-linked-list](https://github.com/janvisharma0330/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/janvisharma0330/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/janvisharma0330/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/janvisharma0330/leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/janvisharma0330/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/janvisharma0330/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0883-car-fleet](https://github.com/janvisharma0330/leetcode/tree/master/0883-car-fleet) |
+| [1072-next-greater-node-in-linked-list](https://github.com/janvisharma0330/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/janvisharma0330/leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/janvisharma0330/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Queue

@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/janvisharma0330/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/janvisharma0330/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/janvisharma0330/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/janvisharma0330/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/janvisharma0330/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/janvisharma0330/leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/janvisharma0330/leetcode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/janvisharma0330/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/janvisharma0330/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0861-flipping-an-image](https://github.com/janvisharma0330/leetcode/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/janvisharma0330/leetcode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/janvisharma0330/leetcode/tree/master/0908-middle-of-the-linked-list) |

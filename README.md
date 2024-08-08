@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/janvisharma0330/leetcode/tree/master/0198-house-robber) |
 | [0496-next-greater-element-i](https://github.com/janvisharma0330/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/janvisharma0330/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0561-array-partition](https://github.com/janvisharma0330/leetcode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/janvisharma0330/leetcode/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/janvisharma0330/leetcode/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/janvisharma0330/leetcode/tree/master/0861-flipping-an-image) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/janvisharma0330/leetcode/tree/master/0389-find-the-difference) |
+| [0561-array-partition](https://github.com/janvisharma0330/leetcode/tree/master/0561-array-partition) |
 | [0883-car-fleet](https://github.com/janvisharma0330/leetcode/tree/master/0883-car-fleet) |
 | [0948-sort-an-array](https://github.com/janvisharma0330/leetcode/tree/master/0948-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/janvisharma0330/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/janvisharma0330/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/janvisharma0330/leetcode/tree/master/0402-remove-k-digits) |
+| [0561-array-partition](https://github.com/janvisharma0330/leetcode/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/janvisharma0330/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/janvisharma0330/leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/janvisharma0330/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/janvisharma0330/leetcode/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/janvisharma0330/leetcode/tree/master/0948-sort-an-array) |
 ## Binary Search
 |  |

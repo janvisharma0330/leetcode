@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/janvisharma0330/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2502-sort-the-people](https://github.com/janvisharma0330/leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/janvisharma0330/leetcode/tree/master/2727-number-of-senior-citizens) |
+| [3463-alternating-groups-i](https://github.com/janvisharma0330/leetcode/tree/master/3463-alternating-groups-i) |
 ## Simulation
 |  |
 | ------- |
@@ -333,4 +334,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/janvisharma0330/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/janvisharma0330/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [3463-alternating-groups-i](https://github.com/janvisharma0330/leetcode/tree/master/3463-alternating-groups-i) |
 <!---LeetCode Topics End-->

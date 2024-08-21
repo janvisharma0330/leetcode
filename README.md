@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/janvisharma0330/leetcode/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/janvisharma0330/leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/janvisharma0330/leetcode/tree/master/0402-remove-k-digits) |
+| [0664-strange-printer](https://github.com/janvisharma0330/leetcode/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/janvisharma0330/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0874-backspace-string-compare](https://github.com/janvisharma0330/leetcode/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/janvisharma0330/leetcode/tree/master/0886-score-of-parentheses) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/janvisharma0330/leetcode/tree/master/0198-house-robber) |
+| [0664-strange-printer](https://github.com/janvisharma0330/leetcode/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/janvisharma0330/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/janvisharma0330/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Backtracking

@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/janvisharma0330/leetcode/tree/master/0724-find-pivot-index) |
 | [0861-flipping-an-image](https://github.com/janvisharma0330/leetcode/tree/master/0861-flipping-an-image) |
 | [0883-car-fleet](https://github.com/janvisharma0330/leetcode/tree/master/0883-car-fleet) |
+| [0932-monotonic-array](https://github.com/janvisharma0330/leetcode/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/janvisharma0330/leetcode/tree/master/0948-sort-an-array) |
 | [0983-validate-stack-sequences](https://github.com/janvisharma0330/leetcode/tree/master/0983-validate-stack-sequences) |
 | [1072-next-greater-node-in-linked-list](https://github.com/janvisharma0330/leetcode/tree/master/1072-next-greater-node-in-linked-list) |

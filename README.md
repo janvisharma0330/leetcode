@@ -339,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/janvisharma0330/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/janvisharma0330/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3463-alternating-groups-i](https://github.com/janvisharma0330/leetcode/tree/master/3463-alternating-groups-i) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/janvisharma0330/leetcode/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
